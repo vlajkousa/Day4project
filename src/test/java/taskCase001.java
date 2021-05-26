@@ -3,4 +3,5 @@ public class taskCase001 {
     //work 2
     //finish
     //discus
+    //ready
 }
