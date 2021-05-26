@@ -1,0 +1,2 @@
+public class taskCase001 {
+}
